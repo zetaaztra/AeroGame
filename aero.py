@@ -112,7 +112,7 @@ while running:
     pygame.display.update()
 
     # Limit frames per second
-    clock.tick(30)
+    clock.tick(60)
 
 # Quit Pygame
 pygame.quit()
